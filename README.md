@@ -2,7 +2,7 @@
 Link to article [YOLOv10: Real-Time End-to-End Object Detection](https://paperswithcode.com/paper/yolov10-real-time-end-to-end-object-detection).
 
 
-Link to original repository [DocRes](https://github.com/zzzhang-jx/docres)
+Link to original repository [YOLOv10](https://github.com/THU-MIG/yolov10)
 
 
 ## Instructions 
