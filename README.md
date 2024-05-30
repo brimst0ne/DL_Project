@@ -1,3 +1,19 @@
+## Preface
+Link to article [YOLOv10: Real-Time End-to-End Object Detection](https://paperswithcode.com/paper/yolov10-real-time-end-to-end-object-detection).
+
+
+Link to original repository [DocRes](https://github.com/zzzhang-jx/docres)
+
+
+## Instructions 
+1. Clone repository
+```shell script
+  git clone https://github.com/brimst0ne/DL_Project
+```
+2. Build Docker image with `docker build -t dl_project .`
+3. Run the container with `docker run -p 7860:7860 --gpus all -it dl_project`
+
+
 # [YOLOv10: Real-Time End-to-End Object Detection](https://arxiv.org/abs/2405.14458)
 
 
