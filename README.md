@@ -12,7 +12,7 @@ Link to original repository [YOLOv10](https://github.com/THU-MIG/yolov10)
 ```
 2. Build Docker image with `docker build -t dl_project .` This process takes roughly 15-25 minutes.
 3. Run the container with `docker run -p 7860:7860 -it dl_project`
-4. After the container is started, open either 127.0.0.1:7860 or 0.0.0.0:7860 in your browser. You should see the app interface.
+4. After the container is started, open either `127.0.0.1:7860`, `0.0.0.0:7860` or `localhost:7860` in your browser. You should see the app interface.
 5. To run the test, scroll to the bottom of the page and press on the first example image, then press "Detect Objects". When the output image is generated, press "Copy image to testing folder" and then "Test generated image". MSE should be around zero, while SSIM should be ~1.
 6. If you want to detect objects on your own image, either drag it into the upper-left area of the app or press that area to upload your image. After that, press "Detect Objects".
 
